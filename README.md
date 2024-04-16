@@ -1,6 +1,8 @@
 Restaurant Website
 
 ![Screenshot 2024-04-16 180603](https://github.com/sonikumari34/Restaurant-_Foodproject/assets/139598958/1b4d67f4-d01f-479e-8b6f-83140228b45f)
+![Uploading Screenshot 2024-04-16 180840.png…]()
+
 
 This project is a restaurant website developed using HTML, CSS, JavaScript, Bootstrap, and jQuery. It aims to provide an interactive and visually appealing interface for users to explore the restaurant's menu, place orders, and learn more about the establishment.
 
